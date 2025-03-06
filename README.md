@@ -1,2 +1,2 @@
-# example-frontend-prod
-JavaScript Code for MTC
+# This is a prod JavaScript repository is for frontend developers.
+The infra was modified by Juan Diego Alvarado
